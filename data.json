@@ -1,0 +1,13 @@
+{
+    "name": "Ronin Davis",
+    "age": 20,
+    "city": "Tacoma, WA",
+    "interests": [
+        "Poems",
+        "Board Games",
+        "Martial Arts",
+        "Gaming",
+        "Cooking History"
+    ],
+    "is_student": true
+}
